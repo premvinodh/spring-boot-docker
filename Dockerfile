@@ -11,3 +11,5 @@ ENTRYPOINT ["java", "-jar", "spring-boot-docker.jar"]
 
 # Run the image in a container
 # docker run -d -p 8080:8080 spring-boot-docker-demo
+
+# Access the endpoint @ http://localhost:8080/
